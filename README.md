@@ -1,7 +1,7 @@
 ### Hi there! I'm Carter 👋
 - 🎓 I'm a junior at Boston University studying computer science
 - 🤔 My top languages are Python, C, and Java, and I'm interested in DevOps Engineering, Backend Engineering, and AI
-- 🌱 I’m currently learning OCaml and Python for data science (pandas, numpy, scikit-learn)
+- 🌱 I’m currently learning OCaml and Python for data science (seaborn, pandas, numpy, scikit-learn)
 - 📫 Feel free to reach me at cvmoore@bu.edu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvmoore&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
