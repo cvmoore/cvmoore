@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning OCaml and Python for data science (seaborn, pandas, numpy, scikit-learn)
 - 📫 Feel free to reach me at cvmoore@bu.edu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvmoore&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvmoore&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvmoore&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
