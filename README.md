@@ -1,5 +1,5 @@
 ### Hi there! I'm Carter 👋
-- 🎓 I'm a junior at Boston University studying computer science
+- 🎓 I'm a senior at Boston University studying computer science
 - 🤔 My top languages are Python, C, and Java, and I'm interested in Cybersecurity, DevOps Engineering, Backend Engineering, and AI
 - 🌱 I’m currently learning OCaml and Python for data science (seaborn, pandas, numpy, scikit-learn)
 - 📫 Feel free to reach me at cvmoore@bu.edu
